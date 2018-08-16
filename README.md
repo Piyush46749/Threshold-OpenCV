@@ -1,4 +1,4 @@
-# Thresholding-OpenCV
+# Threshold-OpenCV
 
 The idea of thresholding is to further-simplify visual data for analysis. First, we have to convert to gray-scale, but then we have to consider that grayscale still has at least 255 values. 
 Thresholding can convert everything to white or black, based on a threshold value.
